@@ -10,7 +10,7 @@ isort = "~=4.3"
 mypy = "~=0.761"
 pylint = "~=2.4"
 # Tests
-pytest = '~=5.3'
+pytest = '~=9.0'
 # Documentation
 Sphinx = "~=2.4"
 sphinx_rtd_theme = "~=0.4.2"
